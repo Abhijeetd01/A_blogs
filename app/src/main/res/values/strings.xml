@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ablogs</string>
+
+    <string name="helloworldtext">Hello this is Abhijeet</string>
+    <string name="Buttontext">Click me to replace</string>
+    <string name="buttontext02">Register yourself to the network</string>
+    <string name="Facebook">Facebook</string>
+    <string name="Google">Google</string>
+    <string name="notice">connect yourself with social networks</string>
+</resources>
